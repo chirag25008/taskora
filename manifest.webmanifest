@@ -3,7 +3,7 @@
   "name": "Taskora – Student Task Manager",
   "short_name": "Taskora",
   "description": "A simple student productivity and task management app.",
-  "start_url": "./index.html",
+ "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f6f5ef",
